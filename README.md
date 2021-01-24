@@ -1,1 +1,5 @@
 # script_autostart
+
+有两个分支
+主分支是autostart程序，作为开机自启动的脚本书写方式
+clickstart分支是2021年点击脚本自动运行程序的书写方式
