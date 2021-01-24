@@ -12,6 +12,8 @@ https://blog.csdn.net/qq_35485061/article/details/90085676
 
 ![2](https://github.com/NEUACTION-cv-team/script_autostart/blob/clickstart/2.png)
 
+右键点击对应的.sh文件
+
 ![3](https://github.com/NEUACTION-cv-team/script_autostart/blob/clickstart/3.png)
 
 来张福利XD
