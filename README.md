@@ -12,4 +12,4 @@ https://blog.csdn.net/qq_35485061/article/details/90085676
 
 ![3](https://github.com/NEUACTION-cv-team/script_autostart/blob/clickstart/3.png)
 
-![4](https://github.com/NEUACTION-cv-team/script_autostart/blob/clickstart/4.png)
+![4](https://github.com/NEUACTION-cv-team/script_autostart/blob/clickstart/4.jpg)
